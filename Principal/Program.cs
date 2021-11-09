@@ -9,6 +9,7 @@ namespace Principal
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Prueba");
         }
     }
 }
