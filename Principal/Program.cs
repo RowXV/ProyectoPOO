@@ -11,6 +11,8 @@ namespace Principal
         {
             Console.WriteLine("Prueba");
             Console.WriteLine("Lo bajara?");
+            Console.WriteLine("Subir");
+            Console.ReadLine();
         }
     }
 }
